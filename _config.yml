@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title:       Type
+title:       Shares Experience
 email:       ''
-description: ''
+description: 'Communication is based on shared experience.'
 baseurl:     '' # The subpath of your site, e.g. /blog
-url:         'https://type-jekyll.aspirethemes.com/' # The base hostname & protocol for your site
+url:         'petrichor0901.github.io' # The base hostname & protocol for your site
 twitter:     ''
 github:      ''
-instagram:   ''
+instagram:   'echo0901'
 facebook:    ''
 
 markdown:  kramdown
