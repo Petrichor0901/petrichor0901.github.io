@@ -2,8 +2,9 @@
 layout:post
 title: 本博旨在
 tags:[blog]
-image:'/images/posts/1.jpeg'
+image:'/images/posts/1.jpg'
 ---
 
 
 
+热菜日常
