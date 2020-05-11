@@ -1,6 +1,6 @@
 ---
 layout:post
-title: 本博旨在——
+title: 本博旨在
 tags:[blog]
 image:'/images/posts/1.jpeg'
 ---
