@@ -1,6 +1,6 @@
 ---
 layout: post
-title:初尝油画
+title: 初尝油画
 tags: [blog,daily]
 image: '/images/posts/2.jpg'
 ---
